@@ -1,0 +1,33 @@
+#header .menu ul li{
+display:inline-block;
+}
+.mainDrop{
+    display:none;
+}
+.duyme a{
+background: #ff7200;
+color:white;
+border-radius:5px;
+padding:15px 20px;
+text-decoration: none;
+}
+.duyme a:hover{
+    background:none;
+}
+.menu ul li{
+    padding:10px;
+}
+#header{
+    margin-top: 20px
+}
+.ikon{
+    padding:5px;
+    margin-top:-1px
+}
+.duyme{
+    margin-top: 15px
+}
+.ikon i{
+    padding:12px;
+    font-size:26px;
+}
